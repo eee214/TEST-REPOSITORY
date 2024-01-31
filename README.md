@@ -48,7 +48,7 @@
 >- 「松田研究室」の文字が明確に読めること。
 >- 以下の図に示す部分の形を正確に認識できること。（円形ではないことの識別が可能であること。）  
 >  
-> ![最小サイズ.PNG](https://dl.dropboxusercontent.com/scl/fi/mvhvt7hqaidq10h0p2gz3/.png?rlkey=cepkdaxvijti15nmhilgaltzt&dl=0)
+> ![最小サイズ.PNG](https://dl.dropboxusercontent.com/scl/fi/n7cdzo03ay3uy346pz4qk/.png?rlkey=ljyrvu0av8n7s62fv5gagmvfh&dl=0)
 >  
   
 ロゴマークの最小表示サイズの目安は、デジタルメディアで高さ25 dp、印刷物で高さ3.5mmです。

@@ -34,7 +34,7 @@
 
 > **クリアスペース**  
 >   
-> ![クリアスペース.PNG](https://dl.dropboxusercontent.com/scl/fi/eg0wk628bwy8324t4pp5q/.png?rlkey=jmf5ryj5s5doslpofznnkak81&dl=0)
+> ![クリアスペース.PNG](https://dl.dropboxusercontent.com/scl/fi/87l4fywgaiofgjrromoxv/.png?rlkey=h8d3dvgtdle13c8iyo3u1v25w&dl=0)
 >
 > ロゴマークの逆雫形部分に内接する円のサイズを基準とし、ロゴ（ロゴマーク＋ロゴタイプ）を囲む長方形の4辺それぞれで、円1つ分以上を常に空ける必要があります。
 
@@ -51,13 +51,13 @@
 > ![最小サイズ.PNG](https://dl.dropboxusercontent.com/scl/fi/n7cdzo03ay3uy346pz4qk/.png?rlkey=ljyrvu0av8n7s62fv5gagmvfh&dl=0)
 >  
   
-ロゴマークの最小表示サイズの目安は、デジタルメディアで高さ25 dp、印刷物で高さ3.5mmです。
+ロゴマークの最小表示サイズの目安は、デジタルメディアで高さ25 dp、印刷物で高さ3.5 mmです。
 
 <br>
 
 ## カラーコード
 
-![カラーサンプル.PNG](https://dl.dropboxusercontent.com/scl/fi/yvncknubct0m9zq9973ve/.png?rlkey=kcs6ovzze6tucfps81fcyakiy&dl=0)
+![カラーサンプル.PNG](https://dl.dropboxusercontent.com/scl/fi/19rhkntzwsr3if3l3uqr1/.png?rlkey=5c4zdcttpsr0vorji6db4goat&dl=0)
 
 **Green（Light Green）**  
 #8DC21F（RGB:141.194.31　CMYK:?.?.?.0）  

@@ -11,7 +11,7 @@
 
 ロゴマークのカラーは4種類用意されています。背景色に合わせて視認性の高いものを使用します。  
 
-![クリアスペースの例_01](https://dl.dropboxusercontent.com/scl/fi/rxxmzlaama0v5mp8fcwws/.png?rlkey=j47lm51upgm78xukubo0e93gi&dl=0)  
+![カラーバリエーション.PNG](https://dl.dropboxusercontent.com/scl/fi/rxxmzlaama0v5mp8fcwws/.png?rlkey=j47lm51upgm78xukubo0e93gi&dl=0)  
 
 ロゴマークとロゴタイプは、組み合わせることのできる色・配置が決められており、**それ以外の組み合わせで使用することはできません。**  
 
@@ -28,13 +28,13 @@
 
 ## クリアスペース
 
-松田研ロゴマークおよびロゴタイプを使用する際には、規定サイズ以上のクリアスペースを確保する必要があります。  
+松田研ロゴマークおよびロゴタイプを使用する際には、以下に示す規定サイズ以上のクリアスペースを確保する必要があります。  
 ダウンロード可能なPNGファイル・JPGファイル・SVGファイルは、**あらかじめ余白部分が規定のクリアスペースのサイズなるように作られています。**
 この範囲に他の画像やテキストを配置しないでください。
 
 > **クリアスペース**  
 >   
-> ![クリアスペースの例_01](https://dl.dropboxusercontent.com/scl/fi/eg0wk628bwy8324t4pp5q/.png?rlkey=jmf5ryj5s5doslpofznnkak81&dl=0)
+> ![クリアスペース.PNG](https://dl.dropboxusercontent.com/scl/fi/eg0wk628bwy8324t4pp5q/.png?rlkey=jmf5ryj5s5doslpofznnkak81&dl=0)
 >
 > ロゴマークの逆雫形部分に内接する円のサイズを基準とし、ロゴ（ロゴマーク＋ロゴタイプ）を囲む長方形の4辺それぞれで、円1つ分以上を常に空ける必要があります。
 
@@ -48,27 +48,24 @@
 >- 「松田研究室」の文字が明確に読めること。
 >- 以下の図に示す部分の形を正確に認識できること。（円形ではないことの識別が可能であること。）  
 >  
-> ![最小サイズの例_01](https://dl.dropboxusercontent.com/scl/fi/mvhvt7hqaidq10h0p2gz3/.png?rlkey=cepkdaxvijti15nmhilgaltzt&dl=0)
+> ![最小サイズ.PNG](https://dl.dropboxusercontent.com/scl/fi/mvhvt7hqaidq10h0p2gz3/.png?rlkey=cepkdaxvijti15nmhilgaltzt&dl=0)
 >  
-> ロゴマークの最小表示サイズの目安は、デジタルメディアで高さ25 dp、印刷物で高さ3.5mmです。
+  
+ロゴマークの最小表示サイズの目安は、デジタルメディアで高さ25 dp、印刷物で高さ3.5mmです。
 
 <br>
 
 ## カラーコード
 
-<div style="width: 300px; height: 50px; background-color: #8DC21F;"></div>
+![カラーサンプル.PNG](https://dl.dropboxusercontent.com/scl/fi/yvncknubct0m9zq9973ve/.png?rlkey=kcs6ovzze6tucfps81fcyakiy&dl=0)
 
 **Green（Light Green）**  
-#8DC21F（RGB:141.194.31　CMYK:53.7.98.0）
+#8DC21F（RGB:141.194.31　CMYK:?.?.?.0）  
 ※松田研ロゴおよび関連素材において、Greenとは常にこの黄緑色を指します。
-
-<div style="width: 300px; height: 50px; background-color: #282828;"></div>
 
 **Black（Dark Gray）**  
 #282828（RGB:40.40.40　CMYK:0.0.0.84）  
 ※松田研ロゴおよび関連素材において、Blackとは常にこの黒に近いグレーを指します。
-
-<div style="width: 300px; height: 50px; background-color: #FFFFFF;"></div>
 
 **White**  
 #FFFFFF（RGB:255.255.255　CMYK:0.0.0.0）
